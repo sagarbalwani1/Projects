@@ -1,6 +1,6 @@
 // SAGAR BALWANI
 //
-// Try to run this program in VSCode or any other compiler if it does not work in your Existing Compiler or Software
+// Try to run this program in VSCode for Better Results
 // A Sample Input and Output is Given at the End of the Code
 //
 // Billing_system.c - A Program to for a billling system of an Ice-cream shop with the output as an bill.
