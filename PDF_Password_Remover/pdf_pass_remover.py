@@ -1,4 +1,4 @@
-import pikepdf
+import pikepdf          # Install this using pip if not already installed
 
 pdf_loc = input("PDF location: ") 	# Example: C:\\Users\\Desktop\\file1.pdf
 pdf_pass = input("PDF password: ")	# Example: pass1
